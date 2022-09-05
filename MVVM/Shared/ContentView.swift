@@ -1,7 +1,6 @@
 //
 //  ContentView.swift
 //  Shared
-//
 //  Created by 이득령 on 2022/09/03.
 //
 

@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
         
         ZStack{
-            backgroundView(isNight: $isNight)
+            BackgroundView(isNight: $isNight)
             VStack(spacing: 20){
                 CityName(title: "인천")
 
@@ -81,7 +81,7 @@ struct WeatherInfo: View {
     
 }
 
-struct backgroundView: View {
+struct BackgroundView: View {
   
     @Binding var isNight: Bool
     

@@ -1,5 +1,7 @@
 # __날씨앱 만들기 프로젝트!__
 
+<img width="30%" src="https://user-images.githubusercontent.com/112817940/188341960-67375e40-469c-43a1-b757-83bf551ea4b8.gif"/>
+
 <span style="font-size: 180%">__Extract SubView를__ 활용했습니다!<br></span> 
 <br>
 개발자 서근님이 제작하신 예제를 코린이눈높이에서 제 해석한 글 입니다!
